@@ -1,1 +1,1 @@
-# calculator-js
+# Calculadora desenvolvida com Javascript Nativo
